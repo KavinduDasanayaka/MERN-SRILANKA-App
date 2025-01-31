@@ -1,6 +1,7 @@
 
 #MERN SRILANKA Tourism App
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 <p><a  href="https://github.com/kavindudasanayaka"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,vscode,github"  width=350></a></p>
 
 This Repository contains the source code for Tourism website of srilanka.A web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The project utilizes Vite as the local development server.
@@ -49,3 +50,10 @@ npm run frontend
 ```
 
 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2025-01-31 174149](https://github.com/user-attachments/assets/a5602a6d-dce9-40b7-af85-0efa1211f278)
+
+
+![Screenshot 2025-01-31 174134](https://github.com/user-attachments/assets/0d2b2554-7d75-4da0-b364-1fdd126b5b2c)
