@@ -1,0 +1,17 @@
+#initialize frontend react+vite with foldername frontend
+npx create-vite frontend --template react
+
+#Created the json file for backend
+npm init -y
+
+#packages for backend.But install on the root folder
+npm i bcryptjs body-parser concurrently cookie-parser dotenv express jsonwebtoken mongoose multer nodemon      multer-is designed for uploading forms with images file and input fields
+
+#frontend npm packages install
+npm i react-icons react-redux @reduxjs/toolkit react-router react-router-dom react-slick react-toastify slick-carousel
+
+#Create and add things to env file.
+
+#made chages in script part in package.json file.(Backend json file(concurrently package is used))(Put scripts to run the fontend and backend & fullstack)
+
+#Created the file structure for backend and test..(npm run backend)(Also put code)
