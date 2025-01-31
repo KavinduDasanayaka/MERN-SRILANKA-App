@@ -52,7 +52,6 @@ npm run frontend
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![Screenshot 2025-01-31 174149](https://github.com/user-attachments/assets/a5602a6d-dce9-40b7-af85-0efa1211f278)
 
 
