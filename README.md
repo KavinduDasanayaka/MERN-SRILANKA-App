@@ -46,7 +46,7 @@ MERN-SRILANKA-App->backend
 npm run backend
 
 MERN-SRILANKA-App->frontend
-npm run frontend
+npm run frontend  / npm run dev
 ```
 
 
